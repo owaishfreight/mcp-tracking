@@ -1,0 +1,507 @@
+{
+    "events": [
+        {
+            "eventID": "b1019697-b254-49d2-b5b1-1fe258717448D1",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-10-27T15:40:00Z",
+            "eventCreatedDateTime": "2026-11-23T11:03:34Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279513785"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279513785"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "643E",
+                "carrierVoyageNumber": "643E",
+                "facilityCode": "MTL",
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "DUBLIN TERMINAL, SOUTH BANK QUAY",
+                    "latitude": "53.341875",
+                    "longitude": "-6.210952"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "DUBLIN TERMINAL, SOUTH BANK QUAY Pigeon House Rd Dublin Dublin Ireland",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9803675",
+                    "vesselName": "BG DIAMOND",
+                    "vesselFlag": "CY",
+                    "vesselCallSignNumber": "5BVG4"
+                },
+                "UNLocationCode": "IEDUB"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MRKU9209058"
+                }
+            ]
+        },
+        {
+            "eventID": "b1019697-b254-49d2-b5b1-1fe258717448A1",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-10-30T10:58:00+01:00",
+            "eventCreatedDateTime": "2026-11-23T11:03:34Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279513785"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279513785"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "643E",
+                "carrierVoyageNumber": "643E",
+                "facilityCode": "NLMVII",
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "APM 2 Terminal Maasvlakte II",
+                    "latitude": "51.957536",
+                    "longitude": "4.018079"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "APM 2 Terminal Maasvlakte II 3199LC Europaweg 910 Rotterdam Netherlands 3199 LC",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9803675",
+                    "vesselName": "BG DIAMOND",
+                    "vesselFlag": "CY",
+                    "vesselCallSignNumber": "5BVG4"
+                },
+                "UNLocationCode": "NLRTM"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MRKU9209058"
+                }
+            ]
+        },
+        {
+            "eventID": "b1019697-b254-49d2-b5b1-1fe258717448D2",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-01T13:53:00+01:00",
+            "eventCreatedDateTime": "2026-11-23T11:03:34Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279513785"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279513785"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "643E",
+                "carrierVoyageNumber": "643E",
+                "facilityCode": "NLMVII",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "APM 2 Terminal Maasvlakte II",
+                    "latitude": "51.957536",
+                    "longitude": "4.018079"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "APM 2 Terminal Maasvlakte II 3199LC Europaweg 910 Rotterdam Netherlands 3199 LC",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9778806",
+                    "vesselName": "MUNICH MAERSK",
+                    "vesselFlag": "DK",
+                    "vesselCallSignNumber": "OWCH2"
+                },
+                "UNLocationCode": "NLRTM"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MRKU9209058"
+                }
+            ]
+        },
+        {
+            "eventID": "b1019697-b254-49d2-b5b1-1fe258717448A2",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-25T07:30:00+08:00",
+            "eventCreatedDateTime": "2026-11-23T11:03:34Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279513785"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279513785"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "643E",
+                "carrierVoyageNumber": "643E",
+                "facilityCode": "PTP",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "Pelabuhan Tanjung Pelepas Terminal",
+                    "latitude": "1.405100",
+                    "longitude": "103.593000"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Pelabuhan Tanjung Pelepas Terminal Jalan Pelabuhan Tanjung Pelepas Gelang Patah JOHOR Block A Wisma PTP Tanjung Pelepas Malaysia 81560",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9778806",
+                    "vesselName": "MUNICH MAERSK",
+                    "vesselFlag": "DK",
+                    "vesselCallSignNumber": "OWCH2"
+                },
+                "UNLocationCode": "MYTPP"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MRKU9209058"
+                }
+            ]
+        },
+        {
+            "eventID": "b1019697-b254-49d2-b5b1-1fe258717448D3",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-12-04T09:00:00+08:00",
+            "eventCreatedDateTime": "2026-11-23T11:03:34Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279513785"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279513785"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "648N",
+                "carrierVoyageNumber": "648N",
+                "facilityCode": "PTP",
+                "transportCallSequenceNumber": 3,
+                "location": {
+                    "locationName": "Pelabuhan Tanjung Pelepas Terminal",
+                    "latitude": "1.405100",
+                    "longitude": "103.593000"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Pelabuhan Tanjung Pelepas Terminal Jalan Pelabuhan Tanjung Pelepas Gelang Patah JOHOR Block A Wisma PTP Tanjung Pelepas Malaysia 81560",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9525352",
+                    "vesselName": "MAERSK CAPE TOWN",
+                    "vesselFlag": "SG",
+                    "vesselCallSignNumber": "9V9558"
+                },
+                "UNLocationCode": "MYTPP"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MRKU9209058"
+                }
+            ]
+        },
+        {
+            "eventID": "b1019697-b254-49d2-b5b1-1fe258717448A3",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-12-09T01:42:00+08:00",
+            "eventCreatedDateTime": "2026-11-23T11:03:34Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279513785"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279513785"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "648N",
+                "carrierVoyageNumber": "648N",
+                "facilityCode": "XSCT",
+                "transportCallSequenceNumber": 3,
+                "location": {
+                    "locationName": "Xiamen Songyu Container Terminal",
+                    "latitude": "24.447312",
+                    "longitude": "118.032126"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Xiamen Songyu Container Terminal No.1688, Gangjian Road, Haicang, Xia Xiamen China 361026",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9525352",
+                    "vesselName": "MAERSK CAPE TOWN",
+                    "vesselFlag": "SG",
+                    "vesselCallSignNumber": "9V9558"
+                },
+                "UNLocationCode": "CNXMN"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MRKU9209058"
+                }
+            ]
+        },
+        {
+            "eventID": "15535211077",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-28T11:43:53Z",
+            "eventCreatedDateTime": "2026-10-28T11:43:53Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "RECE",
+            "documentTypeCode": "SHI",
+            "documentID": "279513785"
+        },
+        {
+            "eventID": "15535209062",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-28T11:43:57Z",
+            "eventCreatedDateTime": "2026-10-28T11:43:57Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "DRFT",
+            "documentTypeCode": "TRD",
+            "documentID": "279513785"
+        },
+        {
+            "eventID": "15535212627",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-28T11:44:12Z",
+            "eventCreatedDateTime": "2026-10-28T11:44:12Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "ISSU",
+            "documentTypeCode": "TRD",
+            "documentID": "279513785"
+        },
+        {
+            "eventID": "1adf9aae-db39-38d2-a836-09d80d1410ac",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-10-20T13:19:00+01:00",
+            "eventCreatedDateTime": "2026-10-20T13:05:22Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "GTOT",
+            "equipmentReference": "MRKU9209058",
+            "emptyIndicatorCode": "EMPTY",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279513785"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279513785"
+                }
+            ],
+            "transportCall": {
+                "transportCallSequenceNumber": 0,
+                "location": {
+                    "locationName": "DUBLIN, RUSHFLEET",
+                    "latitude": "53.341888",
+                    "longitude": "-6.210621"
+                },
+                "facilityTypeCode": "COFS",
+                "otherFacility": "DUBLIN, RUSHFLEET Dublin, Eire Ireland WHITEBANK ROAD Dublin Ireland EIRE",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "IEDUB"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "d8b96072-a477-3c7a-ac40-50465d23cc39",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-10-20T16:43:00+01:00",
+            "eventCreatedDateTime": "2026-10-20T16:15:18Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "GTIN",
+            "equipmentReference": "MRKU9209058",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279513785"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279513785"
+                }
+            ],
+            "transportCall": {
+                "facilityCode": "MTL",
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "DUBLIN TERMINAL, SOUTH BANK QUAY",
+                    "latitude": "53.341875",
+                    "longitude": "-6.210952"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "DUBLIN TERMINAL, SOUTH BANK QUAY Pigeon House Rd Dublin Dublin Ireland",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "IEDUB"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "2bba74b3-6060-3e35-b9d7-32a89c8a4899",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-10-26T14:44:00Z",
+            "eventCreatedDateTime": "2026-10-26T15:16:32Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "LOAD",
+            "equipmentReference": "MRKU9209058",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279513785"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279513785"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "643E",
+                "carrierVoyageNumber": "643E",
+                "facilityCode": "MTL",
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "DUBLIN TERMINAL, SOUTH BANK QUAY",
+                    "latitude": "53.341875",
+                    "longitude": "-6.210952"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "DUBLIN TERMINAL, SOUTH BANK QUAY Pigeon House Rd Dublin Dublin Ireland",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9803675",
+                    "vesselName": "BG DIAMOND",
+                    "vesselFlag": "CY",
+                    "vesselCallSignNumber": "5BVG4"
+                },
+                "UNLocationCode": "IEDUB"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "004a2191-c4af-386a-b97d-4644e613dff1",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-10-30T23:01:00+01:00",
+            "eventCreatedDateTime": "2026-10-30T22:35:21Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "DISC",
+            "equipmentReference": "MRKU9209058",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279513785"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279513785"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "643E",
+                "carrierVoyageNumber": "643E",
+                "facilityCode": "NLMVII",
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "APM 2 Terminal Maasvlakte II",
+                    "latitude": "51.957536",
+                    "longitude": "4.018079"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "APM 2 Terminal Maasvlakte II 3199LC Europaweg 910 Rotterdam Netherlands 3199 LC",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9803675",
+                    "vesselName": "BG DIAMOND",
+                    "vesselFlag": "CY",
+                    "vesselCallSignNumber": "5BVG4"
+                },
+                "UNLocationCode": "NLRTM"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "851b3a73-84f8-38cd-8d21-94ee034aa4ba",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-11-01T04:12:00+01:00",
+            "eventCreatedDateTime": "2026-11-01T03:30:20Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "LOAD",
+            "equipmentReference": "MRKU9209058",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279513785"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279513785"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "643E",
+                "carrierVoyageNumber": "643E",
+                "facilityCode": "NLMVII",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "APM 2 Terminal Maasvlakte II",
+                    "latitude": "51.957536",
+                    "longitude": "4.018079"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "APM 2 Terminal Maasvlakte II 3199LC Europaweg 910 Rotterdam Netherlands 3199 LC",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9778806",
+                    "vesselName": "MUNICH MAERSK",
+                    "vesselFlag": "DK",
+                    "vesselCallSignNumber": "OWCH2"
+                },
+                "UNLocationCode": "NLRTM"
+            },
+            "ISOEquipmentCode": "22G1"
+        }
+    ]
+}

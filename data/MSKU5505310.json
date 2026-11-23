@@ -1,0 +1,1149 @@
+{
+    "events": [
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eD1",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-09-09T17:01:00+01:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "Bodmin",
+                    "latitude": "50.4531",
+                    "longitude": "-4.7031"
+                },
+                "otherFacility": "",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "GBBDM"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eA1",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-09-10T17:01:00+01:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "facilityCode": "DPWLG",
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "London Gateway Terminal",
+                    "latitude": "51.510091",
+                    "longitude": "0.459598"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "London Gateway Terminal Stanford le hope SS17 9DY STANFORD-LE-HOPE London Gateway United Kingdom SS17 9DY",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "GBLGP"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eD2",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-09-12T17:53:00+01:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "636E",
+                "carrierVoyageNumber": "636E",
+                "facilityCode": "DPWLG",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "London Gateway Terminal",
+                    "latitude": "51.510091",
+                    "longitude": "0.459598"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "London Gateway Terminal Stanford le hope SS17 9DY STANFORD-LE-HOPE London Gateway United Kingdom SS17 9DY",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9525912",
+                    "vesselName": "AL RIFFA",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LKS2"
+                },
+                "UNLocationCode": "GBLGP"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eA2",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-09-16T10:11:00+02:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "636E",
+                "carrierVoyageNumber": "636E",
+                "facilityCode": "APM",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "Algeciras - ML Terminal",
+                    "latitude": "36.142188",
+                    "longitude": "-5.440188"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Algeciras - ML Terminal   Muelle Juan Carlos I S/N Algeciras Spain 11201",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9525912",
+                    "vesselName": "AL RIFFA",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LKS2"
+                },
+                "UNLocationCode": "ESALG"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eD3",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-09-20T14:03:00+02:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "638E",
+                "carrierVoyageNumber": "638E",
+                "facilityCode": "APM",
+                "transportCallSequenceNumber": 3,
+                "location": {
+                    "locationName": "Algeciras - ML Terminal",
+                    "latitude": "36.142188",
+                    "longitude": "-5.440188"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Algeciras - ML Terminal   Muelle Juan Carlos I S/N Algeciras Spain 11201",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9437062",
+                    "vesselName": "GSL SYROS",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LBR7"
+                },
+                "UNLocationCode": "ESALG"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eA3",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-09-28T06:00:00+03:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "638E",
+                "carrierVoyageNumber": "638E",
+                "facilityCode": "DPW",
+                "transportCallSequenceNumber": 3,
+                "location": {
+                    "locationName": "DPA TERMINAL",
+                    "latitude": "21.483340",
+                    "longitude": "39.200000"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "DPA TERMINAL JEDDAH 18419 DPA TERMINAL Jeddah Saudi Arabia 18419",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9437062",
+                    "vesselName": "GSL SYROS",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LBR7"
+                },
+                "UNLocationCode": "SAJED"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eD4",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-10-02T05:27:00+03:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "637E",
+                "carrierVoyageNumber": "637E",
+                "facilityCode": "DPW",
+                "transportCallSequenceNumber": 4,
+                "location": {
+                    "locationName": "DPA TERMINAL",
+                    "latitude": "21.483340",
+                    "longitude": "39.200000"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "DPA TERMINAL JEDDAH 18419 DPA TERMINAL Jeddah Saudi Arabia 18419",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9964510",
+                    "vesselName": "MAERSK EUNAPOLIS",
+                    "vesselFlag": "PA",
+                    "vesselCallSignNumber": "3E6996"
+                },
+                "UNLocationCode": "SAJED"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eA4",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-02T15:52:00+08:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "637E",
+                "carrierVoyageNumber": "637E",
+                "facilityCode": "BLTCT",
+                "transportCallSequenceNumber": 4,
+                "location": {
+                    "locationName": "Beilun Container Terminal Phase 4",
+                    "latitude": "29.858270",
+                    "longitude": "122.020490"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Beilun Container Terminal Phase 4 No.8 Jixiang Road Baifeng Beilun N Ningbo China 315813",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9964510",
+                    "vesselName": "MAERSK EUNAPOLIS",
+                    "vesselFlag": "PA",
+                    "vesselCallSignNumber": "3E6996"
+                },
+                "UNLocationCode": "CNNBO"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eD5",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-05T05:00:00+08:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "643W",
+                "carrierVoyageNumber": "643W",
+                "facilityCode": "BLTCT",
+                "transportCallSequenceNumber": 5,
+                "location": {
+                    "locationName": "Beilun Container Terminal Phase 4",
+                    "latitude": "29.858270",
+                    "longitude": "122.020490"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Beilun Container Terminal Phase 4 No.8 Jixiang Road Baifeng Beilun N Ningbo China 315813",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "CNNBO"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eA5",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-05T07:00:00+08:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "643W",
+                "carrierVoyageNumber": "643W",
+                "facilityCode": "BLCT6",
+                "transportCallSequenceNumber": 5,
+                "location": {
+                    "locationName": "Ningbo Meishan Terminal",
+                    "latitude": "29.875000",
+                    "longitude": "121.546800"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Ningbo Meishan Terminal Ningbo Meishan Free Trade Port Zone, Ningbo Ningbo China 315832",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "CNNGB"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eD6",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-14T12:00:00+08:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "645E",
+                "carrierVoyageNumber": "645E",
+                "facilityCode": "BLCT6",
+                "transportCallSequenceNumber": 6,
+                "location": {
+                    "locationName": "Ningbo Meishan Terminal",
+                    "latitude": "29.875000",
+                    "longitude": "121.546800"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Ningbo Meishan Terminal Ningbo Meishan Free Trade Port Zone, Ningbo Ningbo China 315832",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "1040863",
+                    "vesselName": "MAERSK TORINO",
+                    "vesselFlag": "SG",
+                    "vesselCallSignNumber": "S6TK3"
+                },
+                "UNLocationCode": "CNNGB"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eA6",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-15T20:00:00+09:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "645E",
+                "carrierVoyageNumber": "645E",
+                "facilityCode": "PNC",
+                "transportCallSequenceNumber": 6,
+                "location": {
+                    "locationName": "Busan new port terminal Co.ltd",
+                    "latitude": "35.064019",
+                    "longitude": "128.818596"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Busan new port terminal Co.ltd Ganseo-gu Ganseo-gu 372 Sinhangnam-ro Busan Korea, South 46767",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "1040863",
+                    "vesselName": "MAERSK TORINO",
+                    "vesselFlag": "SG",
+                    "vesselCallSignNumber": "S6TK3"
+                },
+                "UNLocationCode": "KRPUS"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eD7",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-25T06:00:00+09:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "645N",
+                "carrierVoyageNumber": "645N",
+                "facilityCode": "PNC",
+                "transportCallSequenceNumber": 7,
+                "location": {
+                    "locationName": "Busan new port terminal Co.ltd",
+                    "latitude": "35.064019",
+                    "longitude": "128.818596"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Busan new port terminal Co.ltd Ganseo-gu Ganseo-gu 372 Sinhangnam-ro Busan Korea, South 46767",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9450571",
+                    "vesselName": "SYNERGY BUSAN",
+                    "vesselFlag": "MH",
+                    "vesselCallSignNumber": "V7A2725"
+                },
+                "UNLocationCode": "KRPUS"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "1d9eb998-f439-4616-9f9a-ca3a1188051eA7",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-26T19:00:00+08:00",
+            "eventCreatedDateTime": "2026-11-23T07:57:31Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "645N",
+                "carrierVoyageNumber": "645N",
+                "facilityCode": "TACT1",
+                "transportCallSequenceNumber": 7,
+                "location": {
+                    "locationName": "Tianjin Port Alliance terminal",
+                    "latitude": "38.998337",
+                    "longitude": "117.774661"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Tianjin Port Alliance terminal Tanggu District No. 1068 Linhai Road, Tanggu Distric Xingang China 300456",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9450571",
+                    "vesselName": "SYNERGY BUSAN",
+                    "vesselFlag": "MH",
+                    "vesselCallSignNumber": "V7A2725"
+                },
+                "UNLocationCode": "CNTXG"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "MSKU5505310"
+                }
+            ]
+        },
+        {
+            "eventID": "15353367419",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-09-07T12:40:16Z",
+            "eventCreatedDateTime": "2026-09-07T12:40:16Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "CONF",
+            "documentTypeCode": "BKG",
+            "documentID": "276056647"
+        },
+        {
+            "eventID": "15364118206",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-09-09T07:23:41Z",
+            "eventCreatedDateTime": "2026-09-09T07:23:41Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "RECE",
+            "documentTypeCode": "SHI",
+            "documentID": "276056647"
+        },
+        {
+            "eventID": "15364119003",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-09-09T07:23:58Z",
+            "eventCreatedDateTime": "2026-09-09T07:23:58Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "DRFT",
+            "documentTypeCode": "TRD",
+            "documentID": "276056647"
+        },
+        {
+            "eventID": "15376818423",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-09-12T12:09:34Z",
+            "eventCreatedDateTime": "2026-09-12T12:09:34Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "ISSU",
+            "documentTypeCode": "TRD",
+            "documentID": "276056647"
+        },
+        {
+            "eventID": "15468428578",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-09T11:57:42Z",
+            "eventCreatedDateTime": "2026-10-09T11:57:42Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "PENA",
+            "documentTypeCode": "SRM",
+            "documentID": "276056647"
+        },
+        {
+            "eventID": "7a039af0-84d6-3018-aee2-e807c0ab47f7",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-09-07T07:44:00+01:00",
+            "eventCreatedDateTime": "2026-09-07T08:08:15Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "GTOT",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "EMPTY",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "transportCallSequenceNumber": 0,
+                "location": {
+                    "locationName": "SOUTHAMPTON, PENTALVER",
+                    "latitude": "50.9043",
+                    "longitude": "-1.417285"
+                },
+                "facilityTypeCode": "COFS",
+                "otherFacility": "SOUTHAMPTON, PENTALVER Southampton Docks United Kingdom WESTERN DOCKS,DOCK GATE 10, SOTHAMPT Southampton United Kingdom SO15 1AW",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "GBSOU"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "4dd60ebe-329d-3361-8c55-de0243444ba5",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-09-08T10:26:00+01:00",
+            "eventCreatedDateTime": "2026-09-09T16:11:14Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "GTIN",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "facilityCode": "DPWLG",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "London Gateway Terminal",
+                    "latitude": "51.510091",
+                    "longitude": "0.459598"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "London Gateway Terminal Stanford le hope SS17 9DY STANFORD-LE-HOPE London Gateway United Kingdom SS17 9DY",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "GBLGP"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "acd6273f-34e5-3ede-a4f0-9e9cc96d60d9",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-09-12T13:02:00+01:00",
+            "eventCreatedDateTime": "2026-09-12T12:31:35Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "LOAD",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "636E",
+                "carrierVoyageNumber": "636E",
+                "facilityCode": "DPWLG",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "London Gateway Terminal",
+                    "latitude": "51.510091",
+                    "longitude": "0.459598"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "London Gateway Terminal Stanford le hope SS17 9DY STANFORD-LE-HOPE London Gateway United Kingdom SS17 9DY",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9525912",
+                    "vesselName": "AL RIFFA",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LKS2"
+                },
+                "UNLocationCode": "GBLGP"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "c4a8dbce-0fe7-3b19-8f7c-1465c3719fc7",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-09-16T08:39:00+02:00",
+            "eventCreatedDateTime": "2026-09-16T07:11:47Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "DISC",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "636E",
+                "carrierVoyageNumber": "636E",
+                "facilityCode": "APM",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "Algeciras - ML Terminal",
+                    "latitude": "36.142188",
+                    "longitude": "-5.440188"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Algeciras - ML Terminal   Muelle Juan Carlos I S/N Algeciras Spain 11201",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9525912",
+                    "vesselName": "AL RIFFA",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LKS2"
+                },
+                "UNLocationCode": "ESALG"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "368e5486-8591-3462-9527-a89201dd8ab3",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-09-19T22:53:00+02:00",
+            "eventCreatedDateTime": "2026-09-19T21:16:08Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "LOAD",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "638E",
+                "carrierVoyageNumber": "638E",
+                "facilityCode": "APM",
+                "transportCallSequenceNumber": 3,
+                "location": {
+                    "locationName": "Algeciras - ML Terminal",
+                    "latitude": "36.142188",
+                    "longitude": "-5.440188"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Algeciras - ML Terminal   Muelle Juan Carlos I S/N Algeciras Spain 11201",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9437062",
+                    "vesselName": "GSL SYROS",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LBR7"
+                },
+                "UNLocationCode": "ESALG"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "e9b6de42-c71b-3dc5-a418-fb15e1ba14c5",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-09-29T09:14:00+03:00",
+            "eventCreatedDateTime": "2026-09-29T09:31:27Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "DISC",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "638E",
+                "carrierVoyageNumber": "638E",
+                "facilityCode": "DPW",
+                "transportCallSequenceNumber": 3,
+                "location": {
+                    "locationName": "DPA TERMINAL",
+                    "latitude": "21.483340",
+                    "longitude": "39.200000"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "DPA TERMINAL JEDDAH 18419 DPA TERMINAL Jeddah Saudi Arabia 18419",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9437062",
+                    "vesselName": "GSL SYROS",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LBR7"
+                },
+                "UNLocationCode": "SAJED"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "e2559720-d428-3593-81a9-b19b149b1995",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-10-01T17:10:00+03:00",
+            "eventCreatedDateTime": "2026-10-01T16:07:28Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "LOAD",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "637E",
+                "carrierVoyageNumber": "637E",
+                "facilityCode": "DPW",
+                "transportCallSequenceNumber": 4,
+                "location": {
+                    "locationName": "DPA TERMINAL",
+                    "latitude": "21.483340",
+                    "longitude": "39.200000"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "DPA TERMINAL JEDDAH 18419 DPA TERMINAL Jeddah Saudi Arabia 18419",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9964510",
+                    "vesselName": "MAERSK EUNAPOLIS",
+                    "vesselFlag": "PA",
+                    "vesselCallSignNumber": "3E6996"
+                },
+                "UNLocationCode": "SAJED"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "5d0d62a5-3bbb-3b37-9bc5-d541a9983bc2",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-11-03T12:35:00+08:00",
+            "eventCreatedDateTime": "2026-11-03T05:26:32Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "DISC",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "643W",
+                "carrierVoyageNumber": "643W",
+                "facilityCode": "BLTCT",
+                "transportCallSequenceNumber": 4,
+                "location": {
+                    "locationName": "Beilun Container Terminal Phase 4",
+                    "latitude": "29.858270",
+                    "longitude": "122.020490"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Beilun Container Terminal Phase 4 No.8 Jixiang Road Baifeng Beilun N Ningbo China 315813",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9964510",
+                    "vesselName": "MAERSK EUNAPOLIS",
+                    "vesselFlag": "PA",
+                    "vesselCallSignNumber": "3E6996"
+                },
+                "UNLocationCode": "CNNBO"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "362bbe11-27d8-39d0-8082-0fd338cdce56",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-11-04T12:26:00+08:00",
+            "eventCreatedDateTime": "2026-11-04T05:20:57Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "GTOT",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "facilityCode": "BLTCT",
+                "transportCallSequenceNumber": 5,
+                "location": {
+                    "locationName": "Beilun Container Terminal Phase 4",
+                    "latitude": "29.858270",
+                    "longitude": "122.020490"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Beilun Container Terminal Phase 4 No.8 Jixiang Road Baifeng Beilun N Ningbo China 315813",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "CNNBO"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "7e302309-92b9-3185-b62c-c09c602ba1a4",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-11-04T14:37:00+08:00",
+            "eventCreatedDateTime": "2026-11-04T07:26:32Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "GTIN",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "facilityCode": "BLCT6",
+                "transportCallSequenceNumber": 6,
+                "location": {
+                    "locationName": "Ningbo Meishan Terminal",
+                    "latitude": "29.875000",
+                    "longitude": "121.546800"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Ningbo Meishan Terminal Ningbo Meishan Free Trade Port Zone, Ningbo Ningbo China 315832",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "CNNGB"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "1362857d-d7d3-333d-a7e5-7df26cbe1ec3",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-11-13T20:45:00+08:00",
+            "eventCreatedDateTime": "2026-11-13T14:26:39Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "LOAD",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "645E",
+                "carrierVoyageNumber": "645E",
+                "facilityCode": "BLCT6",
+                "transportCallSequenceNumber": 6,
+                "location": {
+                    "locationName": "Ningbo Meishan Terminal",
+                    "latitude": "29.875000",
+                    "longitude": "121.546800"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Ningbo Meishan Terminal Ningbo Meishan Free Trade Port Zone, Ningbo Ningbo China 315832",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "1040863",
+                    "vesselName": "MAERSK TORINO",
+                    "vesselFlag": "SG",
+                    "vesselCallSignNumber": "S6TK3"
+                },
+                "UNLocationCode": "CNNGB"
+            },
+            "ISOEquipmentCode": "22G1"
+        },
+        {
+            "eventID": "2e57265d-19b9-3837-b528-d17a29ec7567",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-11-17T06:13:00+09:00",
+            "eventCreatedDateTime": "2026-11-16T21:41:31Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "DISC",
+            "equipmentReference": "MSKU5505310",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "276056647"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "276056647"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "642W",
+                "carrierVoyageNumber": "642W",
+                "facilityCode": "PNC",
+                "transportCallSequenceNumber": 6,
+                "location": {
+                    "locationName": "Busan new port terminal Co.ltd",
+                    "latitude": "35.064019",
+                    "longitude": "128.818596"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Busan new port terminal Co.ltd Ganseo-gu Ganseo-gu 372 Sinhangnam-ro Busan Korea, South 46767",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "1040863",
+                    "vesselName": "MAERSK TORINO",
+                    "vesselFlag": "SG",
+                    "vesselCallSignNumber": "S6TK3"
+                },
+                "UNLocationCode": "KRPUS"
+            },
+            "ISOEquipmentCode": "22G1"
+        }
+    ]
+}
