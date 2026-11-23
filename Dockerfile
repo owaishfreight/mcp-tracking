@@ -3,7 +3,8 @@ FROM python:3.12-slim
 WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
-COPY calculator_server.py .
+COPY tracking_server.py .
+COPY data/ ./data/
 
 ENV MCP_TRANSPORT=http \
     HOST=0.0.0.0 \
@@ -11,4 +12,5 @@ ENV MCP_TRANSPORT=http \
     PYTHONUNBUFFERED=1
 EXPOSE 8000
 
-CMD ["python", "calculator_server.py"]
+CMD ["python", "tracking_server.py"]
+

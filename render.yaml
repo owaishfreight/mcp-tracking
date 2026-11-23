@@ -1,10 +1,10 @@
 services:
   - type: web
-    name: mcp-calculator
+    name: mcp-tracking
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: python calculator_server.py
+    startCommand: python tracking_server.py
     envVars:
       - key: MCP_TRANSPORT
         value: http
