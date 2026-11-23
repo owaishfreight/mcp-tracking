@@ -1,0 +1,691 @@
+{
+    "events": [
+        {
+            "eventID": "7cf129bb-01c5-4a55-9ebc-238d61e5f974D1",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-10-05T18:00:00+05:30",
+            "eventCreatedDateTime": "2026-11-20T08:05:22Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "NAVKAR TERMINALS LIMITED",
+                    "latitude": "20.217261",
+                    "longitude": "72.853287"
+                },
+                "facilityTypeCode": "DEPO",
+                "otherFacility": "NAVKAR TERMINALS LIMITED TALUKA DISTRICT VALSAD VILL TUMB UMBERGAON Valsad India 396150",
+                "modeOfTransport": "RAIL",
+                "UNLocationCode": "INVSD"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "CAAU7601527"
+                }
+            ]
+        },
+        {
+            "eventID": "7cf129bb-01c5-4a55-9ebc-238d61e5f974A1",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-10-06T18:00:00+05:30",
+            "eventCreatedDateTime": "2026-11-20T08:05:22Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "facilityCode": "GTICI",
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "Gateway Terminals India APMT",
+                    "latitude": "18.560000",
+                    "longitude": "73.020000"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Gateway Terminals India APMT Navi Mumbai Navi Mumbai JAWAHARLAL NEHRU PORT TRUST Jawaharlal Nehru India 400702",
+                "modeOfTransport": "RAIL",
+                "UNLocationCode": "INNSA"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "CAAU7601527"
+                }
+            ]
+        },
+        {
+            "eventID": "7cf129bb-01c5-4a55-9ebc-238d61e5f974D2",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-10-10T09:27:00+05:30",
+            "eventCreatedDateTime": "2026-11-20T08:05:22Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "641W",
+                "carrierVoyageNumber": "641W",
+                "facilityCode": "GTICI",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "Gateway Terminals India APMT",
+                    "latitude": "18.560000",
+                    "longitude": "73.020000"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Gateway Terminals India APMT Navi Mumbai Navi Mumbai JAWAHARLAL NEHRU PORT TRUST Jawaharlal Nehru India 400702",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9665621",
+                    "vesselName": "BALTIMORE EXPRESS",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LBY2"
+                },
+                "UNLocationCode": "INNSA"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "CAAU7601527"
+                }
+            ]
+        },
+        {
+            "eventID": "7cf129bb-01c5-4a55-9ebc-238d61e5f974A2",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-13T08:36:00+01:00",
+            "eventCreatedDateTime": "2026-11-20T08:05:22Z",
+            "eventClassifierCode": "ACT",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "641W",
+                "carrierVoyageNumber": "641W",
+                "facilityCode": "DDE",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "Delta Container Terminal",
+                    "latitude": "51.952967",
+                    "longitude": "4.026355"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Delta Container Terminal Europaweg 875 Harbour 8200 Rotterdam Netherlands 3199 LD",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9665621",
+                    "vesselName": "BALTIMORE EXPRESS",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LBY2"
+                },
+                "UNLocationCode": "NLRTM"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "CAAU7601527"
+                }
+            ]
+        },
+        {
+            "eventID": "7cf129bb-01c5-4a55-9ebc-238d61e5f974D3",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-14T00:00:00+01:00",
+            "eventCreatedDateTime": "2026-11-20T08:05:22Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "facilityCode": "DDE",
+                "transportCallSequenceNumber": 3,
+                "location": {
+                    "locationName": "Delta Container Terminal",
+                    "latitude": "51.952967",
+                    "longitude": "4.026355"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Delta Container Terminal Europaweg 875 Harbour 8200 Rotterdam Netherlands 3199 LD",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "NLRTM"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "CAAU7601527"
+                }
+            ]
+        },
+        {
+            "eventID": "7cf129bb-01c5-4a55-9ebc-238d61e5f974A3",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-15T00:00:00+01:00",
+            "eventCreatedDateTime": "2026-11-20T08:05:22Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "facilityCode": "HPD2",
+                "transportCallSequenceNumber": 3,
+                "location": {
+                    "locationName": "Hutchison Ports Delta II",
+                    "latitude": "51.954232",
+                    "longitude": "4.031727"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Hutchison Ports Delta II Coloradoweg 50 Rotterdam Netherlands 3199 LA",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "NLRTM"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "CAAU7601527"
+                }
+            ]
+        },
+        {
+            "eventID": "7cf129bb-01c5-4a55-9ebc-238d61e5f974D4",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-22T11:00:00+01:00",
+            "eventCreatedDateTime": "2026-11-20T08:05:22Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "DEPA",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "646E",
+                "carrierVoyageNumber": "646E",
+                "facilityCode": "HPD2",
+                "transportCallSequenceNumber": 4,
+                "location": {
+                    "locationName": "Hutchison Ports Delta II",
+                    "latitude": "51.954232",
+                    "longitude": "4.031727"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Hutchison Ports Delta II Coloradoweg 50 Rotterdam Netherlands 3199 LA",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9355458",
+                    "vesselName": "PAVO J",
+                    "vesselFlag": "AG",
+                    "vesselCallSignNumber": "V2CN7"
+                },
+                "UNLocationCode": "NLRTM"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "CAAU7601527"
+                }
+            ]
+        },
+        {
+            "eventID": "7cf129bb-01c5-4a55-9ebc-238d61e5f974A4",
+            "eventType": "TRANSPORT",
+            "eventDateTime": "2026-11-28T07:00:00Z",
+            "eventCreatedDateTime": "2026-11-20T08:05:22Z",
+            "eventClassifierCode": "EST",
+            "transportEventTypeCode": "ARRI",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "646E",
+                "carrierVoyageNumber": "646E",
+                "facilityCode": "GBGR",
+                "transportCallSequenceNumber": 4,
+                "location": {
+                    "locationName": "GRANGEMOUTH, TERMINAL",
+                    "latitude": "56.023346",
+                    "longitude": "-3.705103"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "GRANGEMOUTH, TERMINAL Grangemouth United Kingdom FORTH PORTS PLC Grangemouth United Kingdom FK3 8UE",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9355458",
+                    "vesselName": "PAVO J",
+                    "vesselFlag": "AG",
+                    "vesselCallSignNumber": "V2CN7"
+                },
+                "UNLocationCode": "GBGRG"
+            },
+            "references": [
+                {
+                    "referenceType": "EQ",
+                    "referenceValue": "CAAU7601527"
+                }
+            ]
+        },
+        {
+            "eventID": "15441854356",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-01T08:26:58Z",
+            "eventCreatedDateTime": "2026-10-01T08:26:58Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "RECE",
+            "documentTypeCode": "SHI",
+            "documentID": "279037491"
+        },
+        {
+            "eventID": "15441854489",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-01T08:27:08Z",
+            "eventCreatedDateTime": "2026-10-01T08:27:08Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "DRFT",
+            "documentTypeCode": "TRD",
+            "documentID": "279037491"
+        },
+        {
+            "eventID": "15452555313",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-05T10:53:49Z",
+            "eventCreatedDateTime": "2026-10-05T10:53:49Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "CONF",
+            "documentTypeCode": "BKG",
+            "documentID": "279037491"
+        },
+        {
+            "eventID": "15458496267",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-07T02:48:12Z",
+            "eventCreatedDateTime": "2026-10-07T02:48:12Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "CONF",
+            "documentTypeCode": "BKG",
+            "documentID": "279037491"
+        },
+        {
+            "eventID": "15459387094",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-07T08:05:36Z",
+            "eventCreatedDateTime": "2026-10-07T08:05:36Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "CONF",
+            "documentTypeCode": "BKG",
+            "documentID": "279037491"
+        },
+        {
+            "eventID": "15468803608",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-09T13:20:02Z",
+            "eventCreatedDateTime": "2026-10-09T13:20:02Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "CONF",
+            "documentTypeCode": "BKG",
+            "documentID": "279037491"
+        },
+        {
+            "eventID": "15478818861",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-13T04:36:03Z",
+            "eventCreatedDateTime": "2026-10-13T04:36:03Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "CONF",
+            "documentTypeCode": "BKG",
+            "documentID": "279037491"
+        },
+        {
+            "eventID": "15492563158",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-10-16T09:32:00Z",
+            "eventCreatedDateTime": "2026-10-16T09:32:00Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "ISSU",
+            "documentTypeCode": "TRD",
+            "documentID": "279037491"
+        },
+        {
+            "eventID": "15612836961",
+            "eventType": "SHIPMENT",
+            "eventDateTime": "2026-11-19T16:09:59Z",
+            "eventCreatedDateTime": "2026-11-19T16:09:59Z",
+            "eventClassifierCode": "ACT",
+            "shipmentEventTypeCode": "PENA",
+            "documentTypeCode": "SRM",
+            "documentID": "279037491"
+        },
+        {
+            "eventID": "26210917-2e24-32ef-9706-3629cb69cd8f",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-10-03T18:31:00+05:30",
+            "eventCreatedDateTime": "2026-10-03T15:11:50Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "GTIN",
+            "equipmentReference": "CAAU7601527",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "NAVKAR TERMINALS LIMITED",
+                    "latitude": "20.217261",
+                    "longitude": "72.853287"
+                },
+                "facilityTypeCode": "DEPO",
+                "otherFacility": "NAVKAR TERMINALS LIMITED TALUKA DISTRICT VALSAD VILL TUMB UMBERGAON Valsad India 396150",
+                "modeOfTransport": "TRUCK",
+                "UNLocationCode": "INVSD"
+            },
+            "ISOEquipmentCode": "45G1"
+        },
+        {
+            "eventID": "d7358f4c-722c-32e4-9450-b48a067f5863",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-10-04T07:05:00+05:30",
+            "eventCreatedDateTime": "2026-10-04T08:16:29Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "GTOT",
+            "equipmentReference": "CAAU7601527",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "NAVKAR TERMINALS LIMITED",
+                    "latitude": "20.217261",
+                    "longitude": "72.853287"
+                },
+                "facilityTypeCode": "DEPO",
+                "otherFacility": "NAVKAR TERMINALS LIMITED TALUKA DISTRICT VALSAD VILL TUMB UMBERGAON Valsad India 396150",
+                "modeOfTransport": "RAIL",
+                "UNLocationCode": "INVSD"
+            },
+            "ISOEquipmentCode": "45G1"
+        },
+        {
+            "eventID": "4d74bbee-6702-341f-a2ee-dd43355f80be",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-09-30T07:03:00+05:30",
+            "eventCreatedDateTime": "2026-10-04T21:26:06Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "GTOT",
+            "equipmentReference": "CAAU7601527",
+            "emptyIndicatorCode": "EMPTY",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "transportCallSequenceNumber": 1,
+                "location": {
+                    "locationName": "NAVKAR TERMINALS LIMITED",
+                    "latitude": "20.217261",
+                    "longitude": "72.853287"
+                },
+                "facilityTypeCode": "DEPO",
+                "otherFacility": "NAVKAR TERMINALS LIMITED TALUKA DISTRICT VALSAD VILL TUMB UMBERGAON Valsad India 396150",
+                "modeOfTransport": "RAIL",
+                "UNLocationCode": "INVSD"
+            },
+            "ISOEquipmentCode": "45G1"
+        },
+        {
+            "eventID": "1adb4465-5a59-37d2-9a4c-00dd58adf1bc",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-10-05T01:58:00+05:30",
+            "eventCreatedDateTime": "2026-10-04T21:26:06Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "GTIN",
+            "equipmentReference": "CAAU7601527",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "facilityCode": "GTICI",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "Gateway Terminals India APMT",
+                    "latitude": "18.560000",
+                    "longitude": "73.020000"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Gateway Terminals India APMT Navi Mumbai Navi Mumbai JAWAHARLAL NEHRU PORT TRUST Jawaharlal Nehru India 400702",
+                "modeOfTransport": "RAIL",
+                "UNLocationCode": "INNSA"
+            },
+            "ISOEquipmentCode": "45G1"
+        },
+        {
+            "eventID": "c4922194-d914-3755-8c75-6a45da749e09",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-10-10T05:25:00+05:30",
+            "eventCreatedDateTime": "2026-10-10T00:45:44Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "LOAD",
+            "equipmentReference": "CAAU7601527",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "641W",
+                "carrierVoyageNumber": "641W",
+                "facilityCode": "GTICI",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "Gateway Terminals India APMT",
+                    "latitude": "18.560000",
+                    "longitude": "73.020000"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Gateway Terminals India APMT Navi Mumbai Navi Mumbai JAWAHARLAL NEHRU PORT TRUST Jawaharlal Nehru India 400702",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9665621",
+                    "vesselName": "BALTIMORE EXPRESS",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LBY2"
+                },
+                "UNLocationCode": "INNSA"
+            },
+            "ISOEquipmentCode": "45G1"
+        },
+        {
+            "eventID": "c79ddcdd-cd6e-34e9-90f3-3eb192d676bf",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-11-14T09:24:00+01:00",
+            "eventCreatedDateTime": "2026-11-14T08:56:11Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "DISC",
+            "equipmentReference": "CAAU7601527",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "641W",
+                "carrierVoyageNumber": "641W",
+                "facilityCode": "DDE",
+                "transportCallSequenceNumber": 2,
+                "location": {
+                    "locationName": "Delta Container Terminal",
+                    "latitude": "51.952967",
+                    "longitude": "4.026355"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Delta Container Terminal Europaweg 875 Harbour 8200 Rotterdam Netherlands 3199 LD",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9665621",
+                    "vesselName": "BALTIMORE EXPRESS",
+                    "vesselFlag": "LR",
+                    "vesselCallSignNumber": "5LBY2"
+                },
+                "UNLocationCode": "NLRTM"
+            },
+            "ISOEquipmentCode": "45G1"
+        },
+        {
+            "eventID": "ff76a2ed-737c-36e1-a755-475fbb48f753",
+            "eventType": "EQUIPMENT",
+            "eventDateTime": "2026-11-18T13:26:00+01:00",
+            "eventCreatedDateTime": "2026-11-18T13:24:14Z",
+            "eventClassifierCode": "ACT",
+            "equipmentEventTypeCode": "LOAD",
+            "equipmentReference": "CAAU7601527",
+            "emptyIndicatorCode": "LADEN",
+            "documentReferences": [
+                {
+                    "documentReferenceType": "BKG",
+                    "documentReferenceValue": "279037491"
+                },
+                {
+                    "documentReferenceType": "TRD",
+                    "documentReferenceValue": "279037491"
+                }
+            ],
+            "transportCall": {
+                "exportVoyageNumber": "647W",
+                "carrierVoyageNumber": "647W",
+                "facilityCode": "DDE",
+                "transportCallSequenceNumber": 0,
+                "location": {
+                    "locationName": "Delta Container Terminal",
+                    "latitude": "51.952967",
+                    "longitude": "4.026355"
+                },
+                "facilityCodeListProvider": "SMDG",
+                "facilityTypeCode": "POTE",
+                "otherFacility": "Delta Container Terminal Europaweg 875 Harbour 8200 Rotterdam Netherlands 3199 LD",
+                "modeOfTransport": "VESSEL",
+                "vessel": {
+                    "vesselIMONumber": "9504035",
+                    "vesselName": "ELBWAVE",
+                    "vesselFlag": "CY",
+                    "vesselCallSignNumber": "5BZP4"
+                },
+                "UNLocationCode": "NLRTM"
+            },
+            "ISOEquipmentCode": "45G1"
+        }
+    ]
+}
