@@ -21,6 +21,7 @@ SERVER = str(Path(__file__).with_name("tracking_server.py"))
 CONTAINER = "MSKU1712406"
 
 
+
 def show(title: str, result) -> None:
     print(f"\n=== {title} {'(ERROR)' if result.is_error else ''}")
     # Prefer structured output (whole list/dict); fall back to text content.
